@@ -1,0 +1,13 @@
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\bin\Debug\SphereCollision.exe.config
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\bin\Debug\SphereCollision.exe
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\bin\Debug\SphereCollision.pdb
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\SphereCollision.csprojResolveAssemblyReference.cache
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\MainWindow.baml
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\MainWindow.g.cs
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\App.g.cs
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\SphereCollision_MarkupCompile.cache
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\SphereCollision.g.resources
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\SphereCollision.Properties.Resources.resources
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\SphereCollision.csproj.GenerateResource.Cache
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\SphereCollision.exe
+C:\Users\JLuijk\Desktop\wis7\SphereCollision\SphereCollision\obj\Debug\SphereCollision.pdb

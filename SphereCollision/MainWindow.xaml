@@ -1,0 +1,8 @@
+﻿<Window x:Class="SphereCollision.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Elastic Sphere Collision" Height="350" Width="525" Loaded="Window_Loaded" Closing="Window_Closing" IsHitTestVisible="False">
+    <Grid>
+        <Canvas Name="Screen" />
+    </Grid>
+</Window>
