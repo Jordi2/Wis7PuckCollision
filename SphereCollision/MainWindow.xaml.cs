@@ -15,6 +15,13 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
+/*
+ * 0889529 TI3A WISKUNDE 7 Alternative Opdracht
+ * 
+ * Note: Puck placement and vector is random, so it can take a while for the two pucks to make contact, 
+ * if it takes too long just close and reload the application for a more favorable lineup.
+ */
+
 namespace SphereCollision
 {
     public partial class MainWindow : Window
@@ -75,11 +82,11 @@ namespace SphereCollision
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            //Add still puck
+            //Add one still puck
             AddSphere(0.1, 0.1);
 
             //Add x moving pucks
-            for (int i = 0; i < 2; ++i)
+            for (int i = 0; i < 1; ++i)
             {
                 AddSphere(50.0, 50.0);
             }

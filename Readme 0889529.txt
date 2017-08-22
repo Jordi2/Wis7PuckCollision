@@ -1,0 +1,13 @@
+Studentnummer 0889529
+Klas in jaar 3 was TI3A
+Dit is de alteratieve opdracht voor Wiskune 7
+
+Opdracht omschrijving:
+"Twee massieve schijven zijn op een speelveld van een bepaalde grootte. 
+Er is geen wrijving (denk aan air-hockey spel). Één schijf kan ergens op het veld gezet worden en ligt stil; 
+de andere schijf krijgt een initiële richting en snelheid uit een kortdurende kracht. Als de schijven elkaar raken zijn dat volledig elastische botsingen. 
+Als een schijf botst met de rand van het veld, kost dat de schijf 10% van zijn kinetische energie. 
+Er moet een simulatie gemaakt worden, waarbij de twee schijven op het veld getoond worden in de tijd. 
+De simulatie gaat in principe oneindig door.
+N.B. er moet rekening gehouden worden met het massief zijn van de schijven, 
+de wetten van behoud van impuls en van energie, en de relatie tussen kinetische energie en snelheid in de klassieke mechanica."
